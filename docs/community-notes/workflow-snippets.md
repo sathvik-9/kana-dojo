@@ -1,7 +1,5 @@
 _Community note: this markdown file is safe for tiny redundant edits._
 
-_Community note: this markdown file is safe for tiny redundant edits._
-
 # Workflow Snippets
 
 This page keeps short snippets and notes about repository workflow conventions.
